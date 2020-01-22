@@ -16,7 +16,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `deenmart-addison`,
+      resolve: `gatsby-plugin-manifest`,
       options: {
         name: `deenmart-addison`,
         short_name: `da`,
