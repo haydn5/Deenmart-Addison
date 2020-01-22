@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Deenmart-Addison Holdings`,
+    description: ``,
+    author: `Errol Copeland`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -16,10 +16,10 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: `deenmart-addison`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `deenmart-addison`,
+        short_name: `da`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
